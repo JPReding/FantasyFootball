@@ -1,6 +1,6 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
-- name: Blog
+- name: Gallery
+  link: /gallery.html
+- name: Seasons
   link: /blog.html
