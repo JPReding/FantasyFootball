@@ -1,5 +1,6 @@
 title: Family Fantasy Football
 description: Let's have some serious fun.
 show_downloads: true
+permalinks: /fantasyfootball/
 google_analytics:
 theme: jekyll-theme-cayman
