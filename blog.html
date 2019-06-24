@@ -5,9 +5,8 @@ description: The week by week breakdown.
 ---
 <ul>
   {% for post in site.posts %}
-    <div>
       <h2><a href="/fantasyfootball{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
-    </div>
+      <hr>
   {% endfor %}
 </ul>
