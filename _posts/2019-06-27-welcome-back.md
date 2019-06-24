@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 author: Jonathan
 description: This could be your year.
 ---
