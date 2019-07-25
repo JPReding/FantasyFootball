@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Family Fantasy Football
-show_downloads: false
 ---
 ## 2019 Family Fantasy Football 
 
