@@ -3,5 +3,4 @@ description: Let's have some serious fun.
 show_downloads: true
 url: "http://sportsfamily.club"
 google_analytics:
-permalinks: ""
 theme: jekyll-theme-cayman
