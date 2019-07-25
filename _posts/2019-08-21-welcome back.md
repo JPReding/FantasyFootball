@@ -16,7 +16,7 @@ The 2019 regular season kicks off on Thursday September 5th
 
 #### Ok, so here’s what you need to do:
 
-1. Click [here](https://www.when2meet.com/?7954618-Azx3U) to go the tool *When2Meet*
+1. Click <a href="https://www.when2meet.com/?7954618-Azx3U" target="_blank">here</a> to go the *When2Meet* tool
 2. “Sign in” with your name *(no password needed)*
 3. Then select the time blocks you are available
 
@@ -24,7 +24,7 @@ That’s it.
 
 As we all fill in availability it will create a “heat map” to the right of your selections showing when the best time will be to schedule the live draft.
 
-Here’s the short [demo video](https://v.usetapes.com/5mRS2iP1pM) I made last year in case you forgot how to meet the tool
+Here’s the short <a href="https://v.usetapes.com/5mRS2iP1pM" target="_blank">demo video</a> I made last year in case you forgot how to meet the tool
 
 #### Pro Tips
 
