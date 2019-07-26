@@ -2,7 +2,7 @@
 layout: default
 title: Family Fantasy Football
 ---
-<img class="img.center" src="/assets/fantasy_football.png" alt="Fantasy Football">
+<img class="center" src="/assets/fantasy_football.png" alt="Fantasy Football">
 <h2 align="center" >2019 Family Fantasy Football</h2>
 Hope everyone's offseason was productive and we've learned a lot since letting the <a href="http://fantasy.espn.com/football/team?leagueId=215530&seasonId=2019&teamId=12" target="_blank">"Auto Draft King"</a> beat us in fantasy football.
 
