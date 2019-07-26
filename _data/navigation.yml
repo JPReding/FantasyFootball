@@ -1,6 +1,6 @@
-- name: Home
+- name: Front Page
   link: /
-- name: Gallery
+- name: Hall of Champions
   link: /gallery.html
-- name: Seasons
-  link: /blog.html
+- name: News
+  link: /news.html
