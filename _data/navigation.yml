@@ -1,6 +1,6 @@
 - name: Front Page
   link: /
 - name: News
-  link: /news/
+  link: /news
 - name: Hall of Champions
-  link: /gallery/
+  link: /gallery
