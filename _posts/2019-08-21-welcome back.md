@@ -12,7 +12,7 @@ I’ve selected a two week range of dates to choose from starting on **Thursday 
 
 The 2019 regular season kicks off on Thursday September 5th
 
-``` FYI, preseason ends August 29th if you’re worried about any last second preseason injuries affecting your draft. ```
+<p class="callout"> FYI, preseason ends August 29th if you’re worried about any last second preseason injuries affecting your draft. </p>
 
 #### Ok, so here’s what you need to do:
 
