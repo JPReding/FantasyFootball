@@ -3,7 +3,7 @@ layout: default
 title: News
 description: The week by week breakdown.
 ---
-<h2>Here is what's going on...</h2>
+<h1>Here's the scoop:</h1>
 <ul>
   {% for post in site.posts %}
       <hr>
