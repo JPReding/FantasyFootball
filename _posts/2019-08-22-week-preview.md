@@ -3,7 +3,7 @@ layout: post
 author: Jonathan
 description: Preview Edition
 ---
-## Projectings
+## Projections
 ---
 
 ``` Screenhot of ESPN Projections ```
