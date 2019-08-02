@@ -1,6 +1,21 @@
 ---
 layout: post
 author: Jonathan
-description: This could be your year.
+description: Preview Edition
 ---
-2nd test post to see if this works
+## Projectings
+---
+
+``` Screenhot of ESPN Projections ```
+
+## Developing Story Lines
+---
+
+- one
+- two
+- three
+
+## Weekly Prize
+---
+**This Week's Prize:**
+<p class="callout"> This week's prize title </p>
