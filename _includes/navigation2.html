@@ -25,7 +25,7 @@ nav li a {
 }
 </style>
 
-<nav class="i">
+<nav id="i">
   <ul>{% for item in site.data.navigation %}
     <li><a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
       {{ item.name }}
