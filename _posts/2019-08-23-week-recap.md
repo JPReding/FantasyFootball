@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Jonathan
-description: This could be your year.
+description: Highlights Edition
 ---
 ## Scoreboard
 ---
