@@ -3,6 +3,8 @@ layout: post
 author: Jonathan
 description: Highlights Edition
 ---
+Editorial blurb.
+
 ## Scoreboard
 ---
 
