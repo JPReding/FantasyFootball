@@ -28,4 +28,6 @@ Editorial blurb.
 
 ## Current Standings
 ---
+
+``` Screenshot of ESPN Standings ```
  
