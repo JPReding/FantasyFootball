@@ -12,12 +12,6 @@ If the seasons hasn't started yet, make sure you <a href="http://sportsfamily.cl
 
 👇 In the future, you can quickly jump down here to stay current.
 
-<!-- 
-<h1>Latest Post</h1>
-{% for post in site.posts limit:1 %}
- {{site.posts.first}}
-{% endfor %} -->
-
 ### Here's the latest news:
 <ul>
   {% for post in site.posts limit:2 %}
