@@ -11,6 +11,11 @@ I thought it would be fun to have a central place to document all the story line
 If the seasons hasn't started yet, make sure you <a href="http://sportsfamily.club/2019/08/21/welcome-back.html"><strong>start here</strong></a>
 
 👇 In the future, you can quickly jump down here to stay current.
+
+<h1>Latest Post</h1>
+{% for post in site.posts limit:1 %}
+{{site.posts.firts}}
+{% endfor %}
 ### Here's the latest news:
 <ul>
   {% for post in site.posts limit:2 %}
