@@ -13,7 +13,7 @@ If the seasons hasn't started yet, make sure you <a href="http://sportsfamily.cl
 👇 In the future, you can quickly jump down here to stay current.
 ### Here's the latest news:
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:2 %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
