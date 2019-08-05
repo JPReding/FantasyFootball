@@ -1,7 +1,7 @@
 <style>
-nav#i {
+nav {
     background-color: white;
-    visibility: hidden;
+    /* position: fixed; */
     top: 0;
     left: 0;
     right: 0;
@@ -25,7 +25,7 @@ nav li a {
 }
 </style>
 
-<nav id="i">
+<nav>
   <ul>{% for item in site.data.navigation %}
     <li><a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
       {{ item.name }}
