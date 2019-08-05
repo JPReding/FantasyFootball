@@ -1,6 +1,6 @@
 - name: Front Page
   link: /
 - name: News
-  link: https://sportsfamily.club/news
+  link: /news/
 - name: Hall of Champions
-  link: https://sportsfamily.club/gallery
+  link: /gallery/
