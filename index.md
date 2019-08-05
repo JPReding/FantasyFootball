@@ -16,6 +16,7 @@ If the seasons hasn't started yet, make sure you <a href="http://sportsfamily.cl
 {% for post in site.posts limit:1 %}
 <div> {{site.posts.first}} </div>
 {% endfor %}
+
 ### Here's the latest news:
 <ul>
   {% for post in site.posts limit:2 %}
