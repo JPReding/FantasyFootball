@@ -7,9 +7,9 @@ slider:
   shadow_color: black
   slides: 
     - image: /assets/history/2009.png
-      slide_html:
+      slide_html: "test"
     - image: /assets/history/2010.png
-      slide_html:
+      slide_html: "test"
 ---
 > Remember kid, there's heroes and there's legends. Heroes get remembered but legends never die...
 
@@ -18,6 +18,6 @@ The Sandlot
 ** The plan is to add an image gallery of past standings ** 
 
 {% if page.slider %}
-  {% include slider.html height="50" unit="%" transition="slide" duration="7" %}
+  {% include slider.html height="100%" unit="%" transition="slide" duration="7" %}
 {% endif %}
 
