@@ -11,7 +11,4 @@ The Sandlot
 
 {% include image-gallery.html folder="/assets/history" %}
 
- <body>
-    <script src="/js/jquery.min.js"></script>
-    {% include lightbox.html %}
-</body>
+{% include lightbox.html %}
