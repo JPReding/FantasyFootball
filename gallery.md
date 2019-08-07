@@ -11,3 +11,5 @@ The Sandlot
 
 {% include image-gallery.html folder="/assets/history" %}
 
+    <script src="/js/jquery.min.js"></script>
+    {% include lightbox.html %}
