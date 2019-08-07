@@ -10,5 +10,3 @@ The Sandlot
 ** The plan is to add an image gallery of past standings ** 
 
 {% include image-gallery.html folder="/assets/history" %}
-
-{% include lightbox.html %}
