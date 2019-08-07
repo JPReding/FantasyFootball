@@ -7,9 +7,7 @@ slider:
   shadow_color: black
   slides: 
     - image: /assets/history/2009.png
-      slide_html:
     - image: /assets/history/2010.png
-      slide_html:
 ---
 > Remember kid, there's heroes and there's legends. Heroes get remembered but legends never die...
 
