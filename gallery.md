@@ -18,6 +18,6 @@ The Sandlot
 ** The plan is to add an image gallery of past standings ** 
 
 {% if page.slider %}
-  {% include slider.html height="100%" unit="%" transition="slide" duration="7" %}
+  {% include slider.html height="100" unit="%" transition="slide" duration="7" %}
 {% endif %}
 
