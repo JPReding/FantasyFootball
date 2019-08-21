@@ -6,7 +6,7 @@ permalink: /weeklyprizes.html
 ---
 Who else enjoyed the weekly prizes as an added wrinkle to salvage an otherwise potentially obismal week?
 
-Weekly $5 prizes will return this week but I need help with prize ideas (I even need help remembering the prizes we did last year). Help me out by tossing a few ideas in to this google form whenever you get some inspriation.
+**Weekly $5 prizes** will return this season, but I need help with prize ideas (I even need help remembering the prizes we did last year). Help me out by tossing a few ideas in to this google form whenever you get some inspriation.
 
 ### Submit Ideas Here
 ___
