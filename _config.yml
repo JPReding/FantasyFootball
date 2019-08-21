@@ -5,12 +5,12 @@ url: "http://sportsfamily.club"
 google_analytics:
 theme: jekyll-theme-cayman
 defaults:
--
- scope:
-   path: "_slides"  #__
- values:
-   layout: "iframe"
+  -
+  scope:
+    path: "_slides"
+  values:
+    layout: "iframe"
 
 collections:
-slides:
- output: true
+  slides:
+    output: true
