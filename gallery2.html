@@ -28,8 +28,8 @@ description: Heroes get remembered, but legends never die
   </div>
 
   <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  <a class="prev round" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next round" onclick="plusSlides(1)">&#10095;</a>
 </div>
 <br>
 
@@ -64,7 +64,8 @@ description: Heroes get remembered, but legends never die
   width: auto;
   margin-top: -22px;
   padding: 16px;
-  color: #145998;
+  background-color: #145998;
+  color: white;
   font-weight: bold;
   font-size: 18px;
   transition: 0.6s ease;
@@ -75,7 +76,8 @@ description: Heroes get remembered, but legends never die
 /* Position the "next button" to the right */
 .next {
   right: 0;
-  border-radius: 3px 0 0 3px;
+  background-color: #145998;
+  color: white;
 }
 
 /* On hover, add a black background color with a little bit see-through */
@@ -114,6 +116,9 @@ description: Heroes get remembered, but legends never die
   display: inline-block;
   transition: background-color 0.6s ease;
 }
+
+.round {
+  border-radius: 50%;
 
 .active, .dot:hover {
   background-color: #717171;
