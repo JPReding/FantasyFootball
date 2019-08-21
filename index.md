@@ -20,7 +20,7 @@ If the seasons hasn't started yet, make sure you <a href="http://sportsfamily.cl
 <ul>
   {% for post in site.posts limit:2 %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a> • {{%m/%d}} 
     </li>
   {% endfor %}
 </ul>
