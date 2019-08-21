@@ -153,9 +153,10 @@ The Sandlot
 
 .round {
   border-radius: 50%;
+}
 
 .active, .dot:hover {
-  background-color: green;
+  background-color: #145998;
 }
 
 /* Fading animation */
