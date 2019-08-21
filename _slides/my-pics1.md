@@ -7,10 +7,10 @@ loop: true
 permalink: /slides/my-pics1.html
 ---
 
-* ![A nice pic of mine](my-pics1/pic1.jpg)
-* ![Another nice pic of mine](my-pics1/pic2.jpg)
-* ![Another nice pic of mine](my-pics1/pic3.jpg)
-* ![Another nice pic of mine](my-pics1/pic4.jpg)
+* ![A nice pic of mine](_slides/my-pics1/pic1.jpg)
+* ![Another nice pic of mine](_slides/my-pics1/pic2.jpg)
+* ![Another nice pic of mine](_slides/my-pics1/pic3.jpg)
+* ![Another nice pic of mine](_slides/my-pics1/pic4.jpg)
 * # A text slide
   This is a demo of the [Jekyll Gallery](http://lexoyo.me/jekyll-slideshow/).
   
