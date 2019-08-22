@@ -209,3 +209,18 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
+
+#### Overall Regular Season Records
+___
+| Owner      	| # Seasons 	| Record      	| Win % 	|
+|------------	|-----------	|-------------	|-------	|
+| Katie Beth 	| 1         	| 9 - 4       	| 69.2  	|
+| Jonathan   	| 10        	| 81 - 49     	| 62.3  	|
+| Jeremy     	| 5         	| 40 - 25     	| 61.5  	|
+| Davis      	| 10        	| 77 - 52 - 1 	| 59.2  	|
+| David      	| 10        	| 70 - 60     	| 53.8  	|
+| Paul       	| 5         	| 34 - 31     	| 52.3  	|
+| Rob        	| 9         	| 55 - 61 - 1 	| 47.0  	|
+| Daniel     	| 10        	| 53 - 75 - 2 	| 40.8  	|
+| Joel       	| 7         	| 37 - 54     	| 40.7  	|
+| Jeff/Liz   	| 5         	| 26 - 39     	| 40.0  	|
