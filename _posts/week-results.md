@@ -8,7 +8,7 @@ Editorial blurb.
 ## Scoreboard
 ---
 
-``` Screenhot of ESPN Results from iPad ```
+``` Screenshot of ESPN Results from iPad ```
 
 ### Box Scores
 ---

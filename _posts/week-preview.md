@@ -8,7 +8,7 @@ Editorial blurb.
 ## The Matchups
 ---
 
-``` Screenhot of ESPN Projections ```
+``` Screenshot of ESPN Projections ```
 
 ## Developing Story Lines
 ---
