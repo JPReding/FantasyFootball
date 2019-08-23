@@ -76,13 +76,6 @@ The Sandlot
 <style>
 * {box-sizing:border-box}
 
-/* I added this to try and center any tables */
-table.center {
-  margin-left:auto; 
-  margin-right:auto;
-}
-
-
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
@@ -184,6 +177,17 @@ table.center {
   to {opacity: 1}
 }
 
+
+.tg  {border-collapse:collapse;width:100%;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-qtxd{background-color:#f9f9f9;font-size:18px;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-1kv1{font-size:18px;background-color:#58729a;color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-cyr5{background-color:#f9f9f9;font-size:18px;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-fuxe{font-size:18px;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-7jts{font-size:18px;border-color:inherit;text-align:center;vertical-align:top}
+tr:hover {background-color:#f5f5f5;}
+
 </style>
 
 <script>
@@ -218,17 +222,6 @@ function showSlides(n) {
 </script>
 ___
 
-<style type="text/css">
-.tg  {border-collapse:collapse;width:100%;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
-.tg .tg-qtxd{background-color:#f9f9f9;font-size:18px;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-1kv1{font-size:18px;background-color:#58729a;color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-cyr5{background-color:#f9f9f9;font-size:18px;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-fuxe{font-size:18px;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-7jts{font-size:18px;border-color:inherit;text-align:center;vertical-align:top}
-tr:hover {background-color:#f5f5f5;}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-1kv1">Owner</th>
