@@ -217,161 +217,83 @@ function showSlides(n) {
 }
 </script>
 ___
-<table style="width: auto; height: auto; margin-left: auto; margin-right: auto;" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;"><strong>Owner</strong></span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;"><strong># Seasons</strong></span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;"><strong>Record</strong></span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;"><strong>Win %</strong></span></p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">Katie Beth</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">1</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">9 - 4</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">69.2</span></p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">Jonathan</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">10</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">81 - 49</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">62.3</span></p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">Jeremy</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">5</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">40 - 25</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">61.5</span></p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">Davis</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">10</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">77 - 52 - 1</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">59.2</span></p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">David</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">10</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">70 - 60</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">53.8</span></p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">Paul</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">5</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">34 - 31</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">52.3</span></p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">Rob</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">9</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">55 - 61 - 1</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">47.0</span></p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">Daniel</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">10</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">53 - 75 - 2</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">40.8</span></p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">Joel</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">7</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">37 - 54</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">40.7</span></p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">Jeff/Liz</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">5</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">26 - 39</span></p>
-</td>
-<td valign="top">
-<p><span style="color: #000000; font-family: Arial; font-size: large;">40.0</span></p>
-</td>
-</tr>
-</tbody>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;width:100%;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-qtxd{background-color:#f9f9f9;font-size:18px;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-1kv1{font-size:18px;background-color:#58729a;color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-cyr5{background-color:#f9f9f9;font-size:18px;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-fuxe{font-size:18px;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-7jts{font-size:18px;border-color:inherit;text-align:center;vertical-align:top}
+
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-1kv1">Owner</th>
+    <th class="tg-1kv1"># Seasons</th>
+    <th class="tg-1kv1">Record</th>
+    <th class="tg-1kv1">Win %</th>
+  </tr>
+  <tr>
+    <td class="tg-cyr5">Katie Beth</td>
+    <td class="tg-qtxd">1</td>
+    <td class="tg-qtxd">9 - 4</td>
+    <td class="tg-qtxd">69.2</td>
+  </tr>
+  <tr>
+    <td class="tg-fuxe">Jonathan</td>
+    <td class="tg-7jts">10</td>
+    <td class="tg-7jts">81 - 49</td>
+    <td class="tg-7jts">62.3</td>
+  </tr>
+  <tr>
+    <td class="tg-cyr5">Jeremy</td>
+    <td class="tg-qtxd">5</td>
+    <td class="tg-qtxd">40 - 25</td>
+    <td class="tg-qtxd">61.5</td>
+  </tr>
+  <tr>
+    <td class="tg-fuxe">Davis</td>
+    <td class="tg-7jts">10</td>
+    <td class="tg-7jts">77 - 52 - 1</td>
+    <td class="tg-7jts">59.2</td>
+  </tr>
+  <tr>
+    <td class="tg-cyr5">David</td>
+    <td class="tg-qtxd">10</td>
+    <td class="tg-qtxd">70 - 60</td>
+    <td class="tg-qtxd">53.8</td>
+  </tr>
+  <tr>
+    <td class="tg-fuxe">Paul</td>
+    <td class="tg-7jts">5</td>
+    <td class="tg-7jts">34 - 31</td>
+    <td class="tg-7jts">52.3</td>
+  </tr>
+  <tr>
+    <td class="tg-cyr5">Rob</td>
+    <td class="tg-qtxd">9</td>
+    <td class="tg-qtxd">55 - 61 - 1</td>
+    <td class="tg-qtxd">47.0</td>
+  </tr>
+  <tr>
+    <td class="tg-fuxe">Daniel</td>
+    <td class="tg-7jts">10</td>
+    <td class="tg-7jts">53 - 75 - 2</td>
+    <td class="tg-7jts">40.8</td>
+  </tr>
+  <tr>
+    <td class="tg-cyr5">Joel</td>
+    <td class="tg-qtxd">7</td>
+    <td class="tg-qtxd">37 - 54</td>
+    <td class="tg-qtxd">40.7</td>
+  </tr>
+  <tr>
+    <td class="tg-fuxe">Jeff/Liz</td>
+    <td class="tg-7jts">5</td>
+    <td class="tg-7jts">26 - 39</td>
+    <td class="tg-7jts">40.0</td>
+  </tr>
 </table>
