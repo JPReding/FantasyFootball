@@ -177,7 +177,7 @@ The Sandlot
   to {opacity: 1}
 }
 
-table {border-collapse: collapse;width:100%;}
+table {border-collapse: collapse;width:100%;margin-left:auto;margin-right:auto}
 table, th, td {border-bottom: .1px solid;padding: 15px;}
 th {background-color: #58729a; color: white; text-align: left;}
 tr:hover {background-color: #f2f2f2;}
@@ -214,7 +214,7 @@ function showSlides(n) {
 }
 </script>
 ___
-test
+test 2
 <table>
   <tr>
     <th>Owner</th>
