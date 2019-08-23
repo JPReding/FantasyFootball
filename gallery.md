@@ -177,10 +177,6 @@ The Sandlot
   to {opacity: 1}
 }
 
-table {border-collapse: collapse;width:100%;margin-left:auto;margin-right:auto}
-table, th, td {border-bottom: .1px solid;padding: 15px;}
-th {background-color: #58729a; color: white; text-align: left;}
-tr:hover {background-color: #f2f2f2;}
 </style>
 
 <script>
@@ -213,73 +209,3 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-___
-test 2
-<table>
-  <tr>
-    <th>Owner</th>
-    <th># Seasons</th>
-    <th>Record</th>
-    <th>Win %</th>
-  </tr>
-  <tr>
-    <td>Katie Beth</td>
-    <td>1</td>
-    <td>9 - 4</td>
-    <td>69.2</td>
-  </tr>
-  <tr>
-    <td>Jonathan</td>
-    <td>10</td>
-    <td>81 - 49</td>
-    <td>62.3</td>
-  </tr>
-  <tr>
-    <td>Jeremy</td>
-    <td>5</td>
-    <td>40 - 25</td>
-    <td>61.5</td>
-  </tr>
-  <tr>
-    <td>Davis</td>
-    <td>10</td>
-    <td>77 - 52 - 1</td>
-    <td>59.2</td>
-  </tr>
-  <tr>
-    <td>David</td>
-    <td>10</td>
-    <td>70 - 60</td>
-    <td>53.8</td>
-  </tr>
-  <tr>
-    <td>Paul</td>
-    <td>5</td>
-    <td>34 - 31</td>
-    <td>52.3</td>
-  </tr>
-  <tr>
-    <td>Rob</td>
-    <td>9</td>
-    <td>55 - 61 - 1</td>
-    <td>47.0</td>
-  </tr>
-  <tr>
-    <td>Daniel</td>
-    <td>10</td>
-    <td>53 - 75 - 2</td>
-    <td>40.8</td>
-  </tr>
-  <tr>
-    <td>Joel</td>
-    <td>7</td>
-    <td>37 - 54</td>
-    <td>40.7</td>
-  </tr>
-  <tr>
-    <td>Jeff/Liz</td>
-    <td>5</td>
-    <td>26 - 39</td>
-    <td>40.0</td>
-  </tr>
-</table>
