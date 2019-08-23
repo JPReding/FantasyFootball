@@ -176,18 +176,6 @@ The Sandlot
   from {opacity: .4} 
   to {opacity: 1}
 }
-
-
-.tg  {border-collapse:collapse;width:100%;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
-.tg .tg-qtxd{background-color:#f9f9f9;font-size:18px;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-1kv1{font-size:18px;background-color:#58729a;color:#ffffff;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-cyr5{background-color:#f9f9f9;font-size:18px;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-fuxe{font-size:18px;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-7jts{font-size:18px;border-color:inherit;text-align:center;vertical-align:top}
-tr:hover {background-color:#f5f5f5;}
-
 </style>
 
 <script>
@@ -222,71 +210,79 @@ function showSlides(n) {
 </script>
 ___
 
-<table class="tg">
+
+<style>
+table {border-collapse: collapse;width:100%;}
+table, th, td {border-bottom: .1px solid;padding: 15px;}
+th {background-color: #58729a; color: white; text-align: left;}
+tr:hover {background-color: #f2f2f2;}
+
+</style>
+<table>
   <tr>
-    <th class="tg-1kv1">Owner</th>
-    <th class="tg-1kv1"># Seasons</th>
-    <th class="tg-1kv1">Record</th>
-    <th class="tg-1kv1">Win %</th>
+    <th>Owner</th>
+    <th># Seasons</th>
+    <th>Record</th>
+    <th>Win %</th>
   </tr>
   <tr>
-    <td class="tg-cyr5">Katie Beth</td>
-    <td class="tg-qtxd">1</td>
-    <td class="tg-qtxd">9 - 4</td>
-    <td class="tg-qtxd">69.2</td>
+    <td>Katie Beth</td>
+    <td>1</td>
+    <td>9 - 4</td>
+    <td>69.2</td>
   </tr>
   <tr>
-    <td class="tg-fuxe">Jonathan</td>
-    <td class="tg-7jts">10</td>
-    <td class="tg-7jts">81 - 49</td>
-    <td class="tg-7jts">62.3</td>
+    <td>Jonathan</td>
+    <td>10</td>
+    <td>81 - 49</td>
+    <td>62.3</td>
   </tr>
   <tr>
-    <td class="tg-cyr5">Jeremy</td>
-    <td class="tg-qtxd">5</td>
-    <td class="tg-qtxd">40 - 25</td>
-    <td class="tg-qtxd">61.5</td>
+    <td>Jeremy</td>
+    <td>5</td>
+    <td>40 - 25</td>
+    <td>61.5</td>
   </tr>
   <tr>
-    <td class="tg-fuxe">Davis</td>
-    <td class="tg-7jts">10</td>
-    <td class="tg-7jts">77 - 52 - 1</td>
-    <td class="tg-7jts">59.2</td>
+    <td>Davis</td>
+    <td>10</td>
+    <td>77 - 52 - 1</td>
+    <td>59.2</td>
   </tr>
   <tr>
-    <td class="tg-cyr5">David</td>
-    <td class="tg-qtxd">10</td>
-    <td class="tg-qtxd">70 - 60</td>
-    <td class="tg-qtxd">53.8</td>
+    <td>David</td>
+    <td>10</td>
+    <td>70 - 60</td>
+    <td>53.8</td>
   </tr>
   <tr>
-    <td class="tg-fuxe">Paul</td>
-    <td class="tg-7jts">5</td>
-    <td class="tg-7jts">34 - 31</td>
-    <td class="tg-7jts">52.3</td>
+    <td>Paul</td>
+    <td>5</td>
+    <td>34 - 31</td>
+    <td>52.3</td>
   </tr>
   <tr>
-    <td class="tg-cyr5">Rob</td>
-    <td class="tg-qtxd">9</td>
-    <td class="tg-qtxd">55 - 61 - 1</td>
-    <td class="tg-qtxd">47.0</td>
+    <td>Rob</td>
+    <td>9</td>
+    <td>55 - 61 - 1</td>
+    <td>47.0</td>
   </tr>
   <tr>
-    <td class="tg-fuxe">Daniel</td>
-    <td class="tg-7jts">10</td>
-    <td class="tg-7jts">53 - 75 - 2</td>
-    <td class="tg-7jts">40.8</td>
+    <td>Daniel</td>
+    <td>10</td>
+    <td>53 - 75 - 2</td>
+    <td>40.8</td>
   </tr>
   <tr>
-    <td class="tg-cyr5">Joel</td>
-    <td class="tg-qtxd">7</td>
-    <td class="tg-qtxd">37 - 54</td>
-    <td class="tg-qtxd">40.7</td>
+    <td>Joel</td>
+    <td>7</td>
+    <td>37 - 54</td>
+    <td>40.7</td>
   </tr>
   <tr>
-    <td class="tg-fuxe">Jeff/Liz</td>
-    <td class="tg-7jts">5</td>
-    <td class="tg-7jts">26 - 39</td>
-    <td class="tg-7jts">40.0</td>
+    <td>Jeff/Liz</td>
+    <td>5</td>
+    <td>26 - 39</td>
+    <td>40.0</td>
   </tr>
 </table>
