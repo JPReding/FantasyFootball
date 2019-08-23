@@ -227,7 +227,7 @@ ___
 .tg .tg-cyr5{background-color:#f9f9f9;font-size:18px;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-fuxe{font-size:18px;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-7jts{font-size:18px;border-color:inherit;text-align:center;vertical-align:top}
-
+tr:hover {background-color:#f5f5f5;}
 </style>
 <table class="tg">
   <tr>
