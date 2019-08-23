@@ -15,27 +15,15 @@ The Sandlot
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <img src="assets/history/2009.png" style="width:100%">
+    <img src="assets/history/2018.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/history/2010.png" style="width:100%">
+    <img src="assets/history/2017.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/history/2011.png" style="width:100%">
-  </div>
-
-    <div class="mySlides fade">
-    <img src="assets/history/2012.png" style="width:100%">
-  </div>
-
-    <div class="mySlides fade">
-    <img src="assets/history/2013.png" style="width:100%">
-  </div>
-
-  <div class="mySlides fade">
-    <img src="assets/history/2014.png" style="width:100%">
+    <img src="assets/history/2016.png" style="width:100%">
   </div>
 
     <div class="mySlides fade">
@@ -43,15 +31,27 @@ The Sandlot
   </div>
 
     <div class="mySlides fade">
-    <img src="assets/history/2016.png" style="width:100%">
+    <img src="assets/history/2014.png" style="width:100%">
+  </div>
+
+  <div class="mySlides fade">
+    <img src="assets/history/2013.png" style="width:100%">
   </div>
 
     <div class="mySlides fade">
-    <img src="assets/history/2017.png" style="width:100%">
+    <img src="assets/history/2012.png" style="width:100%">
   </div>
 
     <div class="mySlides fade">
-    <img src="assets/history/2018.png" style="width:100%">
+    <img src="assets/history/2011.png" style="width:100%">
+  </div>
+
+    <div class="mySlides fade">
+    <img src="assets/history/2010.png" style="width:100%">
+  </div>
+
+    <div class="mySlides fade">
+    <img src="assets/history/2009.png" style="width:100%">
   </div>
 
   <!-- Next and previous buttons -->
