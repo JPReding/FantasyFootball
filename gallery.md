@@ -209,3 +209,5 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSlckACxhRvbsB4uTtMMaELXGJUQkGKjXnEhSdT856NJHjZ6p0VBE1slxFGgYY3v4kbqH2y-3jVjX_X/pub?embedded=true"></iframe>
