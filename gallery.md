@@ -217,4 +217,161 @@ function showSlides(n) {
 }
 </script>
 ___
-<table style="border-collapse:collapse;border-spacing:0;border-width:1px;border-style:solid;border-color:#ccc;margin-left:auto;margin-right:auto;" class="tg"><tr><th style="font-family:Arial, sans-serif;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#ffffff;background-color:#58729a;text-align:center;vertical-align:top">Owner</th><th style="font-family:Arial, sans-serif;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#ffffff;background-color:#58729a;text-align:center;vertical-align:top"># Seasons</th><th style="font-family:Arial, sans-serif;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#ffffff;background-color:#58729a;text-align:center;vertical-align:top">Record</th><th style="font-family:Arial, sans-serif;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#ffffff;background-color:#58729a;text-align:center;vertical-align:top">Win %</th></tr><tr><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:left;vertical-align:top">Katie Beth</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">1</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">9 - 4</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">69.2</td></tr><tr><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Jonathan</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">10</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">81 - 49</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">62.3</td></tr><tr><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:left;vertical-align:top">Jeremy</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">5</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">40 - 25</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">61.5</td></tr><tr><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Davis</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">10</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">77 - 52 - 1</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">59.2</td></tr><tr><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:left;vertical-align:top">David</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">10</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">70 - 60</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">53.8</td></tr><tr><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Paul</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">5</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">34 - 31</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">52.3</td></tr><tr><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:left;vertical-align:top">Rob</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">9</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">55 - 61 - 1</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">47.0</td></tr><tr><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Daniel</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">10</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">53 - 75 - 2</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">40.8</td></tr><tr><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:left;vertical-align:top">Joel</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">7</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">37 - 54</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#f9f9f9;text-align:center;vertical-align:top">40.7</td></tr><tr><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:left;vertical-align:top">Jeff/Liz</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">5</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">26 - 39</td><td style="font-family:Arial, sans-serif;font-size:18px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:inherit;color:#333;background-color:#fff;text-align:center;vertical-align:top">40.0</td></tr></table>
+<table style="width: auto; height: auto; margin-left: auto; margin-right: auto;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;"><strong>Owner</strong></span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;"><strong># Seasons</strong></span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;"><strong>Record</strong></span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;"><strong>Win %</strong></span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">Katie Beth</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">1</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">9 - 4</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">69.2</span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">Jonathan</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">10</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">81 - 49</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">62.3</span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">Jeremy</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">5</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">40 - 25</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">61.5</span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">Davis</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">10</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">77 - 52 - 1</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">59.2</span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">David</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">10</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">70 - 60</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">53.8</span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">Paul</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">5</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">34 - 31</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">52.3</span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">Rob</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">9</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">55 - 61 - 1</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">47.0</span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">Daniel</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">10</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">53 - 75 - 2</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">40.8</span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">Joel</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">7</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">37 - 54</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">40.7</span></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">Jeff/Liz</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">5</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">26 - 39</span></p>
+</td>
+<td valign="top">
+<p><span style="color: #000000; font-family: Arial; font-size: large;">40.0</span></p>
+</td>
+</tr>
+</tbody>
+</table>
