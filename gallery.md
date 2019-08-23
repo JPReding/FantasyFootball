@@ -229,5 +229,6 @@ function setIframeHeight(id) {
     ifrm.style.visibility = 'visible';
 }
 </script>
-
-<iframe id="ifrm" src="https://docs.google.com/document/d/e/2PACX-1vSlckACxhRvbsB4uTtMMaELXGJUQkGKjXnEhSdT856NJHjZ6p0VBE1slxFGgYY3v4kbqH2y-3jVjX_X/pub?embedded=true" onload="setIframeHeight(this.id)"></iframe>
+___
+___
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSlckACxhRvbsB4uTtMMaELXGJUQkGKjXnEhSdT856NJHjZ6p0VBE1slxFGgYY3v4kbqH2y-3jVjX_X/pub?embedded=true"></iframe>
