@@ -176,6 +176,11 @@ The Sandlot
   from {opacity: .4} 
   to {opacity: 1}
 }
+
+table {border-collapse: collapse;width:100%;}
+table, th, td {border-bottom: .1px solid;padding: 15px;}
+th {background-color: #58729a; color: white; text-align: left;}
+tr:hover {background-color: #f2f2f2;}
 </style>
 
 <script>
@@ -209,15 +214,7 @@ function showSlides(n) {
 }
 </script>
 ___
-
-
-<style>
-table {border-collapse: collapse;width:100%;}
-table, th, td {border-bottom: .1px solid;padding: 15px;}
-th {background-color: #58729a; color: white; text-align: left;}
-tr:hover {background-color: #f2f2f2;}
-
-</style>
+test
 <table>
   <tr>
     <th>Owner</th>
