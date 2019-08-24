@@ -4,5 +4,4 @@ show_downloads: true
 url: "http://sportsfamily.club"
 google_analytics:
 theme: jekyll-theme-cayman
-plugins:
-  - jekyll-feed
+name: Family Fantasy Football
