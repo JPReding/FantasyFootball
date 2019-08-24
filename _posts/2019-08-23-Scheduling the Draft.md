@@ -4,4 +4,5 @@ author: Davis
 description: It's time.
 title: Scheduling the Draft
 ---
-![Draft Date](assets/date.png)
+<img class="center" src="assets/date.png" alt="Draft Date">
+
