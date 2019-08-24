@@ -2,6 +2,7 @@
 layout: post
 author: Jonathan
 description: Play to win the game.
+title: Return of Weekly Prizes
 permalink: /weeklyprizes.html
 ---
 Who else enjoyed the weekly prizes as an added wrinkle to salvage an otherwise potentially obismal week?
