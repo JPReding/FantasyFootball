@@ -18,7 +18,7 @@ If the seasons hasn't started yet, make sure you <a href="http://sportsfamily.cl
 ### Here's the latest posts:
 ----
 <ul>
-  {% for post in site.posts limit:2 %}
+  {% for post in site.posts limit:4 %}
     <li>
       {{ post.date | date: "%m/%d"}} | <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
