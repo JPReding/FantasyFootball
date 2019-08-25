@@ -3,54 +3,15 @@ layout: default
 title: News
 description: The week by week breakdown.
 ---
-<style>
-.dropbtn {
-  display: inline-block;
-  margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
-  border-style: solid;
-  border-width: 1px;
-  border-radius: 0.3rem;
-  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
-}
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
-.dropdown-content {
-  display: none;
-  position: absolute;
-  background-color: #f1f1f1;
-  min-width: 160px;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-  z-index: 1;
-}
-
-.dropdown-content a {
-  color: black;
-  padding: 12px 16px;
-  text-decoration: none;
-  display: block;
-}
-
-.dropdown-content a:hover {background-color: #ddd;}
-
-.dropdown:hover .dropdown-content {display: block;}
-
-.dropdown:hover .dropbtn {background-color: #3e8e41;}
-</style>
-<div class="dropdown">
-  <button class="button">Quick Nav Dropdown</button>
-  <div class="dropdown-content">
+<div>
+  <button>Quick Nav Dropdown</button>
+  <div>
     {% for post in site.posts %}
         <a href="{{site.baseurl}}{{ post.url }}">{{ post.date | date: "%m/%d" }} |  {{ post.title }}</a>
     {% endfor %}
   </div>
 </div>
+
 <ul>
   {% for post in site.posts %}
       <hr>
