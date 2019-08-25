@@ -43,7 +43,7 @@ description: The week by week breakdown.
   <button class="button">Dropdown</button>
   <div class="dropdown-content">
     {% for post in site.posts %}
-        <a {{ post.date | date: "%m/%d" }} |  href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+        <a href="{{site.baseurl}}{{ post.url }}">{{ post.date | date: "%m/%d" }} |  {{ post.title }}</a>
     {% endfor %}
   </div>
 </div>
