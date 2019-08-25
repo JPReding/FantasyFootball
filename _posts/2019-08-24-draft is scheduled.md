@@ -13,6 +13,6 @@ For the sake of clarity, since we are getting more spread out time zone wise ple
 
 <img class="center" src="/assets/timefordraft.jpg" alt="Time for Draft">
 
-At least Jeremy has proven time and again that you can win by auto-drafting so if you have to miss out on the fun, you still have hope.
+At least Jeremy has proven time and again that you can win by auto-drafting 💥. Thus, if you have to miss out on the fun, you still have hope.
 
 <img class="center" src="/assets/tremendousdraft.jpg" alt="Tremendous">
