@@ -6,6 +6,6 @@ title: Draft is Scheduled
 ---
 Doesn't look like there is any block of time where we got 100% availability. That being the case, the draft is scheduled for **Sunday, August 25, 2019 at 9:15 CST/8:15 MDT.**
 
-<img class="center" src="assets/timefordraft.jpg" alt="Time for Draft">
+<img class="center" src="/assets/timefordraft.jpg" alt="Time for Draft">
 
-<img class="center" src="assets/tremendousdraft.jpg" alt="Tremendous">
+<img class="center" src="/assets/tremendousdraft.jpg" alt="Tremendous">
