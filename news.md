@@ -5,11 +5,15 @@ description: The week by week breakdown.
 ---
 <style>
 .dropbtn {
-  background-color: #4CAF50;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
+  display: inline-block;
+  margin-bottom: 1rem;
+  color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.2);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 0.3rem;
+  transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
 
 .dropdown {
@@ -40,7 +44,7 @@ description: The week by week breakdown.
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 </style>
 <div class="dropdown">
-  <button class="btn">Quick Nav Dropdown</button>
+  <button class="button">Quick Nav Dropdown</button>
   <div class="dropdown-content">
     {% for post in site.posts %}
         <a href="{{site.baseurl}}{{ post.url }}">{{ post.date | date: "%m/%d" }} |  {{ post.title }}</a>
