@@ -8,4 +8,6 @@ Doesn't look like there is any block of time where we got 100% availability. Tha
 
 <img class="center" src="/assets/timefordraft.jpg" alt="Time for Draft">
 
+At least Jeremy has proven time and again that you can win by auto-drafting so if you have to miss out on the fun, you still have hope.
+
 <img class="center" src="/assets/tremendousdraft.jpg" alt="Tremendous">
