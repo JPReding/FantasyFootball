@@ -4,7 +4,7 @@ author: Jonathan
 description: Time to shake up the strategies.
 title: "BREAKING: League is Expanding"
 ---
-The league is expanding to 12 teams! In a Favre-like move, KB is coming out of retiremnt. 
+The league is expanding to 12 teams! In a Favre-like move, KB is coming out of retirement. 
 
 As Draft Day counted down the anticipation, the smell of the turf, the wearing of the cleats as house shoes, the Red Zone channel's imminent broadcast became too strong to ignore. 
 
