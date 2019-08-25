@@ -40,7 +40,7 @@ description: The week by week breakdown.
 .dropdown:hover .dropbtn {background-color: #3e8e41;}
 </style>
 <div class="dropdown">
-  <button class="button">Dropdown</button>
+  <button class="btn">Quick Nav Dropdown</button>
   <div class="dropdown-content">
     {% for post in site.posts %}
         <a href="{{site.baseurl}}{{ post.url }}">{{ post.date | date: "%m/%d" }} |  {{ post.title }}</a>
