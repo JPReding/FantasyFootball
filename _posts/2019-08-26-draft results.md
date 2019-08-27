@@ -4,11 +4,6 @@ author: Jonathan
 description: Looking good on paper
 title: Draft Results
 ---
----
-title: Hall of Fame
-layout: default
-description: Heroes get remembered, but legends never die
----
 ### The Gallery
 <!-- HTML -->
 
@@ -236,3 +231,5 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block"; 
   dots[slideIndex-1].className += " active";
 }
+
+</script>
