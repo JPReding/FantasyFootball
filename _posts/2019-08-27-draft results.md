@@ -76,8 +76,8 @@ Had a lot of fun drafting. The 12 team dynamic proved interesting and challening
   </div>
 
 <!-- Next and previous buttons -->
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  <a class="imageprev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="imagenext" onclick="plusSlides(1)">&#10095;</a>
 </div>
 <br>
 
@@ -118,7 +118,7 @@ Had a lot of fun drafting. The 12 team dynamic proved interesting and challening
 }
 
 /* Next & previous buttons */
-.prev, .next {
+.imageprev, .imagenext {
   cursor: pointer;
   position: absolute;
   top: 40%;
@@ -136,14 +136,14 @@ Had a lot of fun drafting. The 12 team dynamic proved interesting and challening
 }
 
 /* Position the "next button" to the right */
-.next {
+.imagenext {
   right: 0;
   background-color: #145998;
   color: white;
 }
 
 /* On hover, add a black background color with a little bit see-through */
-.prev:hover, .next:hover {
+.imageprev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
   opacity: 0.7;
 }
