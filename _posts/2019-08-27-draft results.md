@@ -4,9 +4,11 @@ author: Jonathan
 description: Looking good on paper
 title: Draft Results
 ---
-The draft was a blast and the 12 team dynamic proved interesting and challening. I uploaded our results to a popular fantasy site and here is the way it grades the current strength of our teams. 
+The draft was a blast and the 12 team dynamic proved interesting and challenging. I uploaded our results to a popular fantasy site and here is the way it graded the current strength of our teams. 
 
-As we all know, however, it always looks good until the first snap, the injuries, and the waiver wire pickups start rolling. It's anybody's championship to take, but please, oh please can we stop Jeremy for once?
+As we all know, however, things change drastically upon the first regular season snap, the injuries, and the waiver wire pickups start rolling. 
+
+It's anybody's championship to take, but please, oh please can we stop Jeremy for once?
 
 ### Draft Rankings
 
