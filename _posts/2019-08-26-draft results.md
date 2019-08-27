@@ -4,6 +4,7 @@ author: Jonathan
 description: Looking good on paper
 title: Draft Results
 ---
+Had a lot of fun drafting. The 12 team dynamic proved interesting and challening. As we all know, it always looks good until the first snap, injuries, and the waiver wire pickups start coming in.
 <!-- HTML -->
 
 <!-- Slideshow container -->
