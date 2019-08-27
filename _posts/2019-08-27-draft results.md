@@ -12,67 +12,67 @@ Had a lot of fun drafting. The 12 team dynamic proved interesting and challening
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides fade">
-    <img src="assets/draft/r1.png" style="width:100%">
+    <img src="/assets/draft/r1.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r2.png" style="width:100%">
+    <img src="/assets/draft/r2.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r3.png" style="width:100%">
+    <img src="/assets/draft/r3.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r4.png" style="width:100%">
+    <img src="/assets/draft/r4.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r5.png" style="width:100%">
+    <img src="/assets/draft/r5.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r6.png" style="width:100%">
+    <img src="/assets/draft/r6.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r7.png" style="width:100%">
+    <img src="/assets/draft/r7.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r8.png" style="width:100%">
+    <img src="/assets/draft/r8.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r9.png" style="width:100%">
+    <img src="/assets/draft/r9.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r10.png" style="width:100%">
+    <img src="/assets/draft/r10.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r11.png" style="width:100%">
+    <img src="/assets/draft/r11.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r12.png" style="width:100%">
+    <img src="/assets/draft/r12.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r13.png" style="width:100%">
+    <img src="/assets/draft/r13.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r14.png" style="width:100%">
+    <img src="/assets/draft/r14.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r15.png" style="width:100%">
+    <img src="/assets/draft/r15.png" style="width:100%">
   </div>
 
   <div class="mySlides fade">
-    <img src="assets/draft/r16.png" style="width:100%">
+    <img src="/assets/draft/r16.png" style="width:100%">
   </div>
 
 <!-- Next and previous buttons -->
