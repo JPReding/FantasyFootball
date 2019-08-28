@@ -2,7 +2,7 @@
 layout: post
 author: Davis
 description: Playoffs! Playoffs!!
-title: "Rule Change: Playoffs Expanded"
+title: "Rule Change: Playoff Expansion"
 ---
 Checked in with Davis after seeing the [playoff projections](https://sportsfamily.club/2019/08/27/draft-results.html) based on our initial draft. Four teams entering the tournament didn't seem right after the league expanded to 12 teams.  
 
