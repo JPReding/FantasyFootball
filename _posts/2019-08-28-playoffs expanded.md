@@ -22,3 +22,5 @@ In order to shift to a 6 team playoff, it does bring interesting changes:
 This winner takes all playoff will certainly open the door for some upsets. 
 
 I would love to hear feedback before the seasons starts. There some tradeoffs, but ultimately I think this will make for a more exciting fantasy season. The champion will be whoever can maintain the best strategy throughout the seasons, especially as real NFL teams start to rest starters before the playoffs.
+
+<img class="center" src="/assets/playoffs.gif" alt="Jim Mora Playoffs GIF">
