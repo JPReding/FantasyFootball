@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Jonathan
-description: Prizes Revealed
+description: There are winners, and there are... 
+title: Prizes Revealed
 ---
 
 Ok, here's the weekly prizes revealed. $5 gift cards will be awarded each week to the winners.
