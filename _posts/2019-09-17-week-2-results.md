@@ -18,12 +18,7 @@ Well, how are we feeling after week 2 is a wrap?
 ## Story Lines
 ---
 
-- Emily put the hurt on Jonathan as McCaffrey could not be stopped as he showed off scoring a TD while doing a 2 handed plank with guys on his back.
-- Davis looking to return to old form starting off with a solid win over Daniel.  
-- Courtney enters the league with a convincing win over David despite the Melvin Gordon holdout.
-- Jeremy starts off very strong with a win over Paul, riding Tom Brady to a week one victory.
-- Don't sleep on Joel this year as he starts strong with a win over Rob.
-- Sorry Hines, the Mahomes & Watkins connection would have beat anyone with week as KB starts the season with a bang.
+- 
 
 ## Weekly Prize Winner
 ---
