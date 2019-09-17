@@ -13,7 +13,9 @@ Everyone has high hopes. How will it all shake out?
 ## Developing Story Lines
 ---
 
-Acticipation building, everyone is perfect on the season. Who will jump out this week with the high score? How will the new league members fair? 
+Acticipation has been building, everyone is perfect on the season. 
+
+Who will jump out this week with the high score? How will the new league members fair? 
 
 Football is back! Let's go!! 
 
