@@ -2,7 +2,7 @@
 layout: post
 author: Jonathan
 description: Anything is Possible
-title: "Preview: Week 1"
+title: Week 1 Preview
 ---
 Everyone has high hopes. How will it all shake out?
 
@@ -15,7 +15,7 @@ Everyone has high hopes. How will it all shake out?
 
 Acticipation has been building, everyone is perfect on the season. 
 
-Who will jump out this week with the high score? How will the new league members fair? 
+Who will jump out this week with the high score? How will the new league members fare? 
 
 Football is back! Let's go!! 
 
