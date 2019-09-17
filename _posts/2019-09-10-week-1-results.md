@@ -9,11 +9,11 @@ Editorial blurb.
 ## Scoreboard
 ---
 
-``` Screenshot of ESPN Results from iPad ```
+<img class="center" src="/assets/results/wr1.png" alt="week 1 results">
 
-### Box Scores
+<!-- ### Box Scores
 ---
-``` Screenshot of stiched iPhone matchups ```
+``` Screenshot of stiched iPhone matchups ``` -->
 
 ## Story Lines
 ---
@@ -28,8 +28,8 @@ Editorial blurb.
 
 <p  class="callout" align="center"> Katie Beth is the week 1 prize winner.</p>
 
-## Current Standings
+<!-- ## Current Standings
 ---
 
-``` Screenshot of ESPN Standings ```
+<img class="center" src="/assets/results/ws1.png" alt="week 1 standings"> -->
  
