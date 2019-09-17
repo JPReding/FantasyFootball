@@ -25,7 +25,8 @@ Editorial blurb.
 ## Weekly Prize Winner
 ---
 **The award for "Opening with a bang!" goes to:**
-<p class="callout" align:"center"> Katie Beth is the week 1 prize winner. </p>
+
+<p class="callout" align:"center"> Katie Beth is the week 1 prize winner.</p>
 
 ## Current Standings
 ---
