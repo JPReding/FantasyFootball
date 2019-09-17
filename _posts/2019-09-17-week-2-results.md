@@ -4,7 +4,7 @@ author: Jonathan
 description: Highlights Edition
 title: Week 2 Results
 ---
-Well, how are we feeling after week 2 is a wrap?
+Week 2 is complete. Are things getting better or worse for you?
 
 ## Scoreboard
 ---
