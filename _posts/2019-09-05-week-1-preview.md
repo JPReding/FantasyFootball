@@ -2,7 +2,7 @@
 layout: post
 author: Jonathan
 description: Preview Edition
-title: Week 1
+title: Week 1 Preview
 ---
 Everyone has high hopes. How will it all shake out?
 
@@ -21,3 +21,4 @@ Football is back! Let's go!!
 ---
 **This Week's Prize:**
 <p class="callout" align="center">Opening with a bang!</p>
+The prize will go to the person with the highest total score for week 1.
