@@ -1,8 +1,8 @@
 ---
 layout: post
 author: Jonathan
-description: Preview Edition
-title: Week 1 Preview
+description: Anything is Possible
+title: "Preview: Week 1"
 ---
 Everyone has high hopes. How will it all shake out?
 
