@@ -4,7 +4,7 @@ author: Jonathan
 description: Anything is Possible
 title: Week 2 Preview
 ---
-Everyone has high hopes. How will it all shake out?
+Time to move on, its a long season. Can you build on your winning streak, or stop your losing skid? Here's a second chance. 
 
 ## The Matchup Projections
 ---
