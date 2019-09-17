@@ -18,7 +18,8 @@ Well, that didn't go exactly as planned for most of us.
 ## Story Lines
 ---
 
-- one
+- Emily put the hurt on Jonathan as McCaffrey could not be stopped as he showed off scoring a TD while doing a 1 handed plank with guys on his back.
+- Davis looking to return to old form starting off with a solid win over Daniel. 
 - two
 - three
 
