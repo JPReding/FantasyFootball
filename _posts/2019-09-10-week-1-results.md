@@ -4,7 +4,7 @@ author: Jonathan
 description: Highlights Edition
 title: Week 1 Results
 ---
-Editorial blurb.
+Well, that didn't go exactly as planned for most of us.
 
 ## Scoreboard
 ---
