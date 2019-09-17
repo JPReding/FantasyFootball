@@ -20,4 +20,4 @@ Football is back! Let's go!!
 ## Weekly Prize
 ---
 **This Week's Prize:**
-<p class="callout">Opening with a bang!</p>
+<p class="callout" align="center">Opening with a bang!</p>
