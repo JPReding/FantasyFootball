@@ -16,7 +16,7 @@ For a more in depth look here’s a link to the **[week 3 Scoreboard](https://fa
 ## Story Lines
 ---
 - Jonathan’s team woke up and realized they had talent, finally securing a win over Daniel in strong fashion. 
-- Emily dominated Courtney in large part to her Panther’s players looking strong agains Arizona. Emily now sits alone at the top at 3-0.
+- Emily dominated Courtney in large part to her Panther’s players looking strong against Arizona. Emily now sits alone at the top at 3-0.
 - David was this week’s high scorer! Mike Evans alone provided a 37 point boost as he crushed Davis to claim his first victory of the season.
 - Jeremy’s day ended abruptly when Saquon Barkley was injured early and has handed his first loss of the season as the Hines finished strong to claim their first victory in a surprising upset over last year’s defending champ. 
 - KB continues to looks solid as Rob keeps searching for the gas pedal to get his team moving in the right direction. 0-3 is a tough start to the season. 
