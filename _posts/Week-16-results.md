@@ -12,7 +12,7 @@ title: Week 16 Results
 ---
 <img class="center" src="/assets/results/wr16.png" alt="week 16 results">
 
-Here is a live link to the **[week 16 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=16)**
+Here is a live link to the **[week 16 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=16&mSPID=16)**
 
 
 ## Story Lines

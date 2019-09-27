@@ -12,7 +12,7 @@ title: Week 15 Results
 ---
 <img class="center" src="/assets/results/wr15.png" alt="week 15 results">
 
-Here is a live link to the **[week 15 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=15)**
+Here is a live link to the **[week 15 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=15&mSPID=15)**
 
 
 ## Story Lines

@@ -12,7 +12,7 @@ title: Week 13 Results
 ---
 <img class="center" src="/assets/results/wr13.png" alt="week 13 results">
 
-Here is a live link to the **[week 13 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=13)**
+Here is a live link to the **[week 13 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=13&mSPID=13)**
 
 
 ## Story Lines

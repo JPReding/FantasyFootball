@@ -12,7 +12,7 @@ title: Week 5 Results
 ---
 <img class="center" src="/assets/results/wr5.png" alt="week 5 results">
 
-Here is a live link to the **[week 5 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=5)**
+Here is a live link to the **[week 5 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=5&mSPID=5)**
 
 
 ## Story Lines

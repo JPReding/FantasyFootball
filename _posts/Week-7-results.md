@@ -12,7 +12,7 @@ title: Week 7 Results
 ---
 <img class="center" src="/assets/results/wr7.png" alt="week 7 results">
 
-Here is a live link to the **[week 7 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=7)**
+Here is a live link to the **[week 7 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=7&mSPID=7)**
 
 
 ## Story Lines

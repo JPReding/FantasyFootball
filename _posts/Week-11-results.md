@@ -12,7 +12,7 @@ title: Week 11 Results
 ---
 <img class="center" src="/assets/results/wr11.png" alt="week 11 results">
 
-Here is a live link to the **[week 11 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=11)**
+Here is a live link to the **[week 11 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=11&mSPID=11)**
 
 
 ## Story Lines

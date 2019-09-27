@@ -12,7 +12,7 @@ title: Week 12 Results
 ---
 <img class="center" src="/assets/results/wr12.png" alt="week 12 results">
 
-Here is a live link to the **[week 12 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=12)**
+Here is a live link to the **[week 12 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=12&mSPID=12)**
 
 
 ## Story Lines

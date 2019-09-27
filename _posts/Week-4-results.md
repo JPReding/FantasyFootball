@@ -8,11 +8,13 @@ title: Week 4 Results
 ---
 /editorial blurb/
 
+- Jonathan’s Packer defense disappointed in addition to a costly mistake in benching Wentz against the Packers
+
 ## Scoreboard
 ---
 <img class="center" src="/assets/results/wr4.png" alt="week 4 results">
 
-Here is a live link to the **[week 4 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=4)**
+For a more in depth look here’s a link to the **[week 4 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=4&mSPID=4)**
 
 
 ## Story Lines

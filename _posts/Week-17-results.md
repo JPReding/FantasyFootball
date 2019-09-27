@@ -12,7 +12,7 @@ title: Week 17 Results
 ---
 <img class="center" src="/assets/results/wr17.png" alt="week 17 results">
 
-Here is a live link to the **[week 17 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=17)**
+Here is a live link to the **[week 17 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=17&mSPID=17)**
 
 
 ## Story Lines

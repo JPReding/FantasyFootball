@@ -12,7 +12,7 @@ title: Week 9 Results
 ---
 <img class="center" src="/assets/results/wr9.png" alt="week 9 results">
 
-Here is a live link to the **[week 9 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=9)**
+Here is a live link to the **[week 9 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=9&mSPID=9)**
 
 
 ## Story Lines

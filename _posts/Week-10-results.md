@@ -12,7 +12,7 @@ title: Week 10 Results
 ---
 <img class="center" src="/assets/results/wr10.png" alt="week 10 results">
 
-Here is a live link to the **[week 10 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=10)**
+Here is a live link to the **[week 10 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=10&mSPID=10)**
 
 
 ## Story Lines
