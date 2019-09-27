@@ -28,6 +28,8 @@ For a more in depth look here’s a link to the **[week 3 Scoreboard](https://fa
 
 <p  class="callout" align="center"> Rob is the week 3 prize winner. The prize is a $5 gift card of your choosing.</p>
 
+<iframe width="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRvNaU0s3oCSNd3N73RtwBpV9e18eyo2fyZi2xw9-LcGk2hHvPYbs95mLBPRQS7B7-H3xBuHXgUhW7o/pubhtml?widget=true&amp;headers=false" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
 ## Current Standings
 ---
 
