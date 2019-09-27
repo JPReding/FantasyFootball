@@ -10,7 +10,7 @@ What a shake up this week was. All the 0-2 teams got a win this week, except Rob
 ---
 <img class="center" src="/assets/results/wr3.png" alt="week 3 results">
 
-Here is a live link to the **[week 3 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=3)**
+Here is a live link to the **[week 3 Scoreboard](https://fantasy.espn.com/football/league/scoreboard?leagueId=215530&matchupPeriodId=3&mSPID=3)**
 
 
 ## Story Lines
