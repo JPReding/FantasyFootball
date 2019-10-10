@@ -19,7 +19,7 @@ Here is a live link to the **[week 5 Scoreboard](https://fantasy.espn.com/footba
 - The brother battle between Daniel and David didn't provide much drama as Daniel crushed David this week.
 - Emily somehow secured her 4th win against Davis despite three starters scoring a combined total of 0 points.
 - Jeremy is on a 3 week losing skid, as Joel marches on to 4-1.
-- Paul was the highest scoring team this week and is now on a not so quiet 4 game winning streak.
+- Paul was the highest scoring team this week and is now on a not-so-quiet 4 game winning streak.
 - The Hines were just 2 points away from being the highest scoring team this week. They crushed Rob earning their second win, meanwhile Rob is still seeking that elusive first win.
 
 ## Weekly Prize Winner
