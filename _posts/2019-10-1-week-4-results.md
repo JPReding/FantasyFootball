@@ -4,10 +4,7 @@ author: Jonathan
 description: Highlights Edition
 title: Week 4 Results
 ---
-/editorial blurb/
-
-- Jonathan’s Packer defense disappointed in addition to a costly mistake in benching Wentz against the Packers
-- Courtney with a huge Thursday lead thanks to Howard and Adams
+Let's keep this train moving.
 
 ## Scoreboard
 ---
@@ -24,7 +21,9 @@ For a more in depth look here’s a link to the **[week 4 Scoreboard](https://fa
 ---
 **The award for "Put Me in Coach" goes to:**
 
-<p  class="callout" align="center"> _________ is the week 4 prize winner.</p>
+<p  class="callout" align="center"> Paul is the week 4 prize winner.</p>
+
+<img class="center" src="/assets/results/putmeincoach.png" alt="Put Me in Coach">
 
 ## Current Standings
 ---
