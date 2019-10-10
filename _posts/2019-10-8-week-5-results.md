@@ -23,6 +23,8 @@ Here is a live link to the **[week 5 Scoreboard](https://fantasy.espn.com/footba
 
 <p  class="callout" align="center"> Davis is the week 5 prize winner.</p>
 
+The highest scoring loser was Davis. Hopefully this helps soften the blow that Emily won while posting 3 donuts on the starting roster. 
+
 <img class="center" src="/assets/results/biggestloser.png" alt="Biggest Loser">
 
 
