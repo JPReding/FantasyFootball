@@ -21,7 +21,10 @@ Here is a live link to the **[week 5 Scoreboard](https://fantasy.espn.com/footba
 ---
 **The award for "Put Me in Coach" goes to:**
 
-<p  class="callout" align="center"> _________ is the week 5 prize winner.</p>
+<p  class="callout" align="center"> Davis is the week 5 prize winner.</p>
+
+<img class="center" src="/assets/results/biggestloser.png" alt="Biggest Loser">
+
 
 ## Current Standings
 ---
