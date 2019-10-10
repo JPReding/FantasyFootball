@@ -1,5 +1,3 @@
-2019-10-1-week-4-results
-
 ---
 layout: post
 author: Jonathan
@@ -9,6 +7,7 @@ title: Week 4 Results
 /editorial blurb/
 
 - Jonathan’s Packer defense disappointed in addition to a costly mistake in benching Wentz against the Packers
+- Courtney with a huge Thursday lead thanks to Howard and Adams
 
 ## Scoreboard
 ---

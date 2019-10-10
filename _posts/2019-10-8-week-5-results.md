@@ -1,5 +1,3 @@
-2019-10-8-week-5-results
-
 ---
 layout: post
 author: Jonathan
